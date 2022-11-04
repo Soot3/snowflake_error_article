@@ -1,0 +1,1 @@
+curl https://github.com/Soot3/snowflake_error_article/blob/main/gearbox_data.csv --output gearbox_data.csv
